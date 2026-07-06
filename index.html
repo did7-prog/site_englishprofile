@@ -124,10 +124,10 @@
         /* Состояние ухода фразы */
         .phrase.is-exiting {
             opacity: 0;
-            transform: scale(1.1) translateZ(50px);
+            transform: scale(1.8) translateZ(120px);
             /* Смягчаем тень и добавляем blur при уходе */
-            filter: drop-shadow(0px 8px 16px rgba(0,0,0,0)) blur(5px);
-            transition-duration: 1.5s;
+            filter: drop-shadow(0px 8px 16px rgba(0,0,0,0)) blur(8px);
+            transition-duration: 2s;
         }
 
         /* Подвал */
@@ -194,32 +194,35 @@
         document.addEventListener('DOMContentLoaded', () => {
             const phrases = document.querySelectorAll('.phrase');
             let currentIndex = 0;
-            
             const holdTime = 3000;
-            const transitionTime = 2000;
+            const transitionDuration = 2000; // Должно совпадать с transition-duration в CSS
 
-            function animateCinematicText() {
-                phrases.forEach(p => {
-                    p.classList.remove('is-visible', 'is-exiting');
-                });
+            function cyclePhrases() {
+                const lastVisiblePhrase = document.querySelector('.phrase.is-visible');
+
+                if (lastVisiblePhrase) {
+                    lastVisiblePhrase.classList.remove('is-visible');
+                    lastVisiblePhrase.classList.add('is-exiting');
+
+                    // Убираем класс 'is-exiting' после завершения анимации.
+                    // setTimeout надежнее, чем событие 'transitionend'.
+                    setTimeout(() => {
+                        lastVisiblePhrase.classList.remove('is-exiting');
+                    }, transitionDuration);
+                }
 
                 const currentPhrase = phrases[currentIndex];
                 currentPhrase.classList.add('is-visible');
 
-                setTimeout(() => {
-                    currentPhrase.classList.remove('is-visible');
-                    currentPhrase.classList.add('is-exiting');
-                    
-                    currentIndex++;
-                    if (currentIndex >= phrases.length) {
-                        currentIndex = 0;
-                    }
-
-                    setTimeout(animateCinematicText, transitionTime * 0.75);
-                }, holdTime);
+                currentIndex = (currentIndex + 1) % phrases.length;
             }
 
-            setTimeout(animateCinematicText, 500);
+            // Показываем первую фразу при загрузке
+            phrases[0].classList.add('is-visible');
+            currentIndex = 1; // Готовим индекс для первого вызова цикла
+
+            // Запускаем бесконечный цикл
+            setInterval(cyclePhrases, holdTime);
         });
     </script>
 </body>
