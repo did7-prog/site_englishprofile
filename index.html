@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EnglishProfile.ru — Скоро открытие</title>
+    
+    <!-- Подключаем шрифт Inter, который похож на шрифт с картинки -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <style>
+        /* Базовые стили */
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1a202c;
+            overflow: hidden;
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        /* Фон */
+        .blur-background {
+            position: absolute;
+            top: -10%;
+            left: -10%;
+            width: 120%;
+            height: 120%;
+            background-image: url('image1.webp');
+            background-size: cover;
+            background-position: center;
+            z-index: 0;
+        }
+
+        .cinematic-container {
+            position: relative;
+            z-index: 10;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 2rem;
+        }
+
+        /* Анимация прохождения металлического блика по тексту */
+        @keyframes metallicShine {
+            0% {
+                background-position: 200% center;
+            }
+            100% {
+                background-position: 0% center;
+            }
+        }
+
+        /* Стили для фразы */
+        .phrase {
+            position: absolute;
+            width: 100%;
+            max-width: 1200px;
+            padding: 0 1rem;
+            font-size: clamp(2rem, 5vw, 4.5rem);
+            font-weight: 1000;
+            line-height: 1.2;
+            letter-spacing: -0.02em;
+
+            /* Эффект металлического блеска с пробегающими цветными полосами */
+            /* Резкие переходы от серебряного к цвету и затем к ослепительно белому создают иллюзию полированного металла */
+            background: linear-gradient(
+                110deg,
+                #cccccc 0%,       /* Базовый серебряный (металл) */
+                #ffffff 5%,       /* Резкий белый блик */
+                #cccccc 10%,      /* Возврат к серебру */
+
+                #cccccc 25%,      /* Пауза между бликами */
+
+                #c4a1ff 31%,      /* Полоса фиолетового металла */
+                #ffffff 34%,      /* Яркий центр (блик) на фиолетовой полосе */
+                #cccccc 39%,      /* Возврат к серебру */
+
+                #cccccc 55%,      /* Пауза */
+
+                #85e0ff 61%,      /* Полоса голубого металла */
+                #ffffff 64%,      /* Яркий центр (блик) на голубой полосе */
+                #cccccc 69%,      /* Возврат к серебру */
+
+                #cccccc 85%,      /* Пауза */
+
+                #ffb3d1 91%,      /* Полоса розового металла */
+                #ffffff 94%,      /* Яркий блик на розовой полосе */
+                #cccccc 100%      /* Возврат к началу для плавного зацикливания */
+            );
+            background-size: 200% auto;
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            color: transparent;
+
+            opacity: 0;
+            transform: scale(0.8) translateZ(-100px);
+            /* Начальное состояние фильтра с тенью (когда текст размыт) */
+            filter: drop-shadow(0 0 0 rgba(0,0,0,0)) blur(10px);
+            transition: opacity 2s cubic-bezier(0.25, 1, 0.5, 1),
+                        transform 2s cubic-bezier(0.25, 1, 0.5, 1),
+                        filter 2s cubic-bezier(0.25, 1, 0.5, 1);
+            pointer-events: none;
+        }
+
+        /* Активное состояние фразы (в фокусе) */
+        .phrase.is-visible {
+            opacity: 1;
+            transform: scale(1) translateZ(0);
+            /* Убрали blur и добавили плотную тень (drop-shadow) для читаемости на фоне */
+            filter: drop-shadow(0px 8px 16px rgba(0,0,0,0.85)) blur(0px);
+            /* Равномерное (linear) движение пробегающего блеска */
+            animation: metallicShine 5s linear infinite;
+        }
+
+        /* Состояние ухода фразы */
+        .phrase.is-exiting {
+            opacity: 0;
+            transform: scale(1.1) translateZ(50px);
+            /* Смягчаем тень и добавляем blur при уходе */
+            filter: drop-shadow(0px 8px 16px rgba(0,0,0,0)) blur(5px);
+            transition-duration: 1.5s;
+        }
+
+        /* Подвал */
+        .footer-links {
+            position: absolute;
+            bottom: 2rem;
+            left: 0;
+            width: 100%;
+            z-index: 20;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 2.5rem;
+            font-size: 0.875rem;
+            font-weight: 300;
+            letter-spacing: 0.05em;
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .footer-link {
+            color: inherit;
+            text-decoration: none;
+            transition: color 0.3s ease, opacity 0.3s ease;
+            opacity: 0.7;
+        }
+
+        .footer-link:hover {
+            color: #ffffff;
+            opacity: 1;
+        }
+        
+        @media (max-width: 640px) {
+            .footer-links {
+                flex-direction: column;
+                align-items: center;
+                gap: 1rem;
+                bottom: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Слой 1: Размытый фон -->
+    <div class="blur-background"></div>
+
+    <!-- Слой 2: Кинематографичный текст -->
+    <main class="cinematic-container" id="text-container">
+        <h1 class="phrase">englishprofile.ru</h1>
+        <h1 class="phrase">Создаем ваш новый профиль <br class="hidden md:block">в английском.</h1>
+        <h1 class="phrase">Мы аккумулировали <br>научный подход</h1>
+        <h1 class="phrase">и опыт мировых школ,</h1>
+        <h1 class="phrase">чтобы собрать в одном месте <br>лучшие инструменты</h1>
+        <h1 class="phrase">для понимания языка <br>и общения.</h1>
+    </main>
+
+    <!-- Слой 3: Ссылки внизу -->
+    <footer class="footer-links">
+        <a href="https://vk.com/englishprofile_ru" target="_blank" rel="noopener noreferrer" class="footer-link">vk.com/englishprofile_ru</a>
+        <span class="footer-link">englishprofile.ru</span>
+    </footer>
+
+    <!-- JS Логика переключения текста -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const phrases = document.querySelectorAll('.phrase');
+            let currentIndex = 0;
+            
+            const holdTime = 3000;
+            const transitionTime = 2000;
+
+            function animateCinematicText() {
+                phrases.forEach(p => {
+                    p.classList.remove('is-visible', 'is-exiting');
+                });
+
+                const currentPhrase = phrases[currentIndex];
+                currentPhrase.classList.add('is-visible');
+
+                setTimeout(() => {
+                    currentPhrase.classList.remove('is-visible');
+                    currentPhrase.classList.add('is-exiting');
+                    
+                    currentIndex++;
+                    if (currentIndex >= phrases.length) {
+                        currentIndex = 0;
+                    }
+
+                    setTimeout(animateCinematicText, transitionTime * 0.75);
+                }, holdTime);
+            }
+
+            setTimeout(animateCinematicText, 500);
+        });
+    </script>
+</body>
+</html>
