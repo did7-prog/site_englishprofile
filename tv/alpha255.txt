@@ -1,0 +1,2729 @@
+[
+    {
+        "title": "News",
+        "folder": [
+            {
+                "title": "Reuters Now",
+                "file": "https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8"
+            },
+            {
+                "title": "BBC News International HD UK",
+                "file": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8"
+            },
+            {
+                "title": "BBC News International UK",
+                "file": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
+            },
+            {
+                "title": "BBC News UK",
+                "file": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8"
+            },
+            {
+                "title": "CNN International HD US",
+                "file": "https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8"
+            },
+            {
+                "title": "CNN US",
+                "file": "https://englishprofile.ru/tvplaylistsAItttwPwrziCJ7Ag/CNN-US__Warnermedia__a.m3u8"
+            },
+            {
+                "title": "CNN Fast US",
+                "file": "https://live-media-aka.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master_de.m3u8"
+            },
+            {
+                "title": "CNN Headlines US",
+                "file": "https://live-media-aka.warnermediacdn.com/cmaf/live/2028715/cnnfast-domestic/master_de.m3u8"
+            },
+            {
+                "title": "NBC News Now US",
+                "file": "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8"
+            },
+            {
+                "title": "CNBC US",
+                "file": "https://fl2.moveonjoy.com/CNBC/index.m3u8"
+            },
+            {
+                "title": "CBS News US",
+                "file": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
+            },
+            {
+                "title": "ABC News Live US",
+                "file": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+            },
+            {
+                "title": "ABC News AU",
+                "file": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8"
+            },
+            {
+                "title": "FOX Live Now US",
+                "file": "https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8"
+            },
+            {
+                "title": "FOX News US",
+                "file": "https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/playlist.m3u8"
+            },
+            {
+                "title": "FOX News US",
+                "file": "https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8"
+            },
+            {
+                "title": "Sky News International UK",
+                "file": "https://d25w9q07b2mtmw.cloudfront.net/live/master.m3u8"
+            },
+            {
+                "title": "Sky News Now AU",
+                "file": "https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "Sky News Arabia العربية",
+                "file": "https://stream.skynewsarabia.com/hls/sna.m3u8"
+            },
+            {
+                "title": "GB News UK",
+                "file": "https://amg01076-lightningintern-gbnewsnz-samsungnz-rlcsd.amagi.tv/playlist/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
+            },
+            {
+                "title": "CBC News CA",
+                "file": "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8"
+            },
+            {
+                "title": "DW English DE",
+                "file": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+            },
+            {
+                "title": "DW Español DE",
+                "file": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+            },
+            {
+                "title": "DW العربية DE",
+                "file": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
+            },
+            {
+                "title": "France24 English HD FR",
+                "file": "https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8"
+            },
+            {
+                "title": "France24 English FR",
+                "file": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8"
+            },
+            {
+                "title": "Ticker News AU",
+                "file": "https://amg01486-tickernews-tickernewsweb-ono-oda6t.amagi.tv/playlist/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8"
+            },
+            {
+                "title": "NewsMax US",
+                "file": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/newsmax_720p/playlist.m3u8"
+            },
+            {
+                "title": "NewsMax HD US",
+                "file": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8"
+            },
+            {
+                "title": "NewsMax2 US",
+                "file": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/newsmax2_720p/playlist.m3u8"
+            },
+            {
+                "title": "NewsMax2 HD US",
+                "file": "https://newsmax-samsungus.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "NewsWorld",
+                "file": "https://amg01076-amg01076c5-plex-us-4785.playouts.now.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "Breaking News by LeadStory",
+                "file": "https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-leadstory-leadstory-samsungau/playlist.m3u8"
+            },
+            {
+                "title": "Washington Post Television US",
+                "file": "https://amg01655-thewashingtonpo-washingtonpost-plex-jxk6n.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-plex/playlist.m3u8"
+            },
+            {
+                "title": "TRT World English TR",
+                "file": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+            },
+            {
+                "title": "Al Jazeera English QA",
+                "file": "https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8"
+            },
+            {
+                "title": "Al Jazeera العربية QA",
+                "file": "https://live-hls-web-aja-fa.getaj.net/AJA/index.m3u8"
+            },
+            {
+                "title": "NHK World English JP",
+                "file": "https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8"
+            },
+            {
+                "title": "WION News English HD IN",
+                "file": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
+            },
+            {
+                "title": "WION News English IN",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wion-world-is-one-news/index.m3u8"
+            },
+            {
+                "title": "MNB World English MN",
+                "file": "https://live.mnb.mn/hls/mnb_world.stream.m3u8"
+            },
+            {
+                "title": "CNA English HD SG",
+                "file": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
+            },
+            {
+                "title": "CNA English SG",
+                "file": "https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/playlist.m3u8"
+            },
+            {
+                "title": "CGTN English HD CN",
+                "file": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+            },
+            {
+                "title": "CGTN English CN",
+                "file": "https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8"
+            },
+            {
+                "title": "Euronews English FR",
+                "file": "https://live-manifest.production-public.tubi.io/live/4cb91cf3-4b73-49d7-bf68-4bae22fa2256/playlist.m3u8"
+            },
+            {
+                "title": "Euronews English FR",
+                "file": "https://euronews-euronews-world-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Euronews Español FR",
+                "file": "https://euronews-euronews-spanish-2-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Euronews Français FR",
+                "file": "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Euronews Deutsch FR",
+                "file": "https://euronews-euronews-german-4-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Euronews Italiano FR",
+                "file": "https://euronews-euronews-italian-5-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Euronews Português FR",
+                "file": "https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "RT English RU",
+                "file": "https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8"
+            },
+            {
+                "title": "RT Deutsch RU",
+                "file": "https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8"
+            },
+            {
+                "title": "RT Français RU",
+                "file": "https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8"
+            },
+            {
+                "title": "RT Español RU",
+                "file": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
+            },
+            {
+                "title": "RT العربية RU",
+                "file": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8"
+            },
+            {
+                "title": "Bloomberg US",
+                "file": "https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/index.m3u8"
+            },
+            {
+                "title": "Yahoo Finance US",
+                "file": "https://yahoofina-yahoofinance-plex-kgckp.amagi.tv/playlist/yahoofina-yahoofinance-plex/playlist.m3u8"
+            },
+            {
+                "title": "VOA US",
+                "file": "https://streams2.sofast.tv/ptnr-stirr/genre-News/lang-English/ctgr-News/title-VOA_English/voa-eng/playlist.m3u8"
+            },
+            {
+                "title": "UN TV US",
+                "file": "https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/flavorIds/1_t99j24yi,1_bsogfzyt,1_xrg43i21,1_z7e3o1s4,1_2ts2t2ub,1_sde38jwg,1_vssxieer,1_n8kqal0r,1_euxa7unz,1_6sksh9uw,1_nb9nys26,1_sjxwiwyf,1_lek8y3vi,1_6peyxxs1,1_uqsq6d1f,1_olyis4ii,1_fvx0w97l,1_qdp4aoo2/a.m3u8"
+            },
+            {
+                "title": "Radio-Canada INFO Français CA",
+                "file": "https://amg00788-cbc-amg00788c5-xumo-us-3051.playouts.now.amagi.tv/master.m3u8"
+            },
+            {
+                "title": "Al Mayadeen العربية LB",
+                "file": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
+            },
+            {
+                "title": "Al Arabiya العربية AE",
+                "file": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+            },
+            {
+                "title": "ABC Localish",
+                "file": "https://apollo.production-public.tubi.io/live/ac-localish.m3u8"
+            },
+            {
+                "title": "NBC Today All Day",
+                "file": "https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245"
+            },
+            {
+                "title": "The Hill TV",
+                "file": "https://amg01312-nexstarmediagro-thehilltv-plex-pfg48.amagi.tv/playlist/amg01312-nexstarmediagro-thehilltv-plex/playlist.m3u8"
+            },
+            {
+                "title": "USA Today",
+                "file": "https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/playlist/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8"
+            },
+            {
+                "title": "Cheddar News",
+                "file": "https://dbrb49pjoymg4.cloudfront.net/10001/99991220/hls/index.m3u8?ads.xumo_channelId=99991220"
+            },
+            {
+                "title": "Scripps News",
+                "file": "https://scripps-newsy-1-us.xumo.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Vice News",
+                "file": "https://amg01118-viceuktvlimited-vicefasttwo-plex-ubzi2.amagi.tv/playlist/amg01118-viceuktvlimited-vicefasttwo-plex/playlist.m3u8"
+            },
+            {
+                "title": "AccuWeather Now",
+                "file": "https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8"
+            },
+            {
+                "title": "FOX Weather",
+                "file": "https://amg01542-foxweatherllc-foxweather-plex-kkl3j.amagi.tv/playlist/amg01542-foxweatherllc-foxweather-plex/playlist.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 1",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 2",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 3",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 4",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 5",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 6",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 7",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 8",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 9",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 10",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8"
+            },
+            {
+                "title": "ABC News Livestream 11",
+                "file": "https://abcnews-streams.akamaized.net/hls/live/2023570/abcnews12/master.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Только для России (Тест)",
+        "folder": [
+            {
+                "title": "ТАСС Русский RU",
+                "file": "https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8"
+            },
+            {
+                "title": "Премиальное",
+                "file": "https://stream-msk-07.ott.tricolor.tv:443/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODExNzk4MCIsImV4cCI6MTc1MDg5MDIyMywiaHdpZCI6IjdmOTNjMjNkNjcxNGE3ZjBlM2JjMGQ1MzQ4MjI5MWQ3ODI4MDBjNjg3MzZhYjI1ZGQwMzc1ZmYxMmI5NGUwNjMiLCJsYXN0X3JlcV9kYXRlIjoxNzUwMjg1NDIzLCJzZXNzaW9uX2lkIjoiMmUxMjk2MWM0NDg0MjYxNGQyODE2YTIyOWQ4NzAzZmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VC22xEvGw1l2Srk3zXqkbN39XP8Vc7PQqoXYcqiLGs0"
+            },
+            {
+                "title": "Известия Русский RU",
+                "file": "https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8"
+            },
+            {
+                "title": "РБК Русский RU",
+                "file": "https://online-video.rbc.ru/online/rbctv.m3u8"
+            },
+            {
+                "title": "Россия 1 HD",
+                "file": "https://player.smotrim.ru/iframe/stream/live_id/2961?43e=5.m3u8"
+            },
+            {
+                "title": "Россия К HD",
+                "file": "https://player.smotrim.ru/iframe/stream/live_id/19201?43e=5.m3u8"
+            },
+            {
+                "title": "Россия 24",
+                "file": "https://player.smotrim.ru/iframe/stream/live_id/21?43e=5.m3u8"
+            },
+            {
+                "title": "Мир 24",
+                "file": "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+            },
+            {
+                "title": "Детское кино International",
+                "file": "https://autopilot.catcast.tv/content/38720/index.m3u8"
+            },
+            {
+                "title": "Кино 1 International",
+                "file": "https://autopilot.catcast.tv/content/38617/index.m3u8"
+            },
+            {
+                "title": "Музыка Кино International",
+                "file": "https://autopilot.catcast.tv/content/37739/index.m3u8"
+            },
+            {
+                "title": "Музыка 1 International",
+                "file": "https://autopilot.catcast.tv/content/37745/index.m3u8"
+            },
+            {
+                "title": "Музыка 2 International",
+                "file": "https://autopilot.catcast.tv/content/37742/index.m3u8"
+            },
+            {
+                "title": "Видеокассета",
+                "file": "https://autopilot.catcast.tv/content/37925/index.m3u8"
+            },
+            {
+                "title": "Сити Эдем — Кинодетектив",
+                "file": "https://autopilot.catcast.tv/content/41327/index.m3u8"
+            },
+            {
+                "title": "Сити Эдем — Кинокомедия",
+                "file": "https://autopilot.catcast.tv/content/41331/index.m3u8"
+            },
+            {
+                "title": "Сити Эдем — Киномистика",
+                "file": "https://autopilot.catcast.tv/content/40783/index.m3u8"
+            },
+            {
+                "title": "Сити Эдем — Киноэкшен",
+                "file": "https://autopilot.catcast.tv/content/41333/index.m3u8"
+            },
+            {
+                "title": "Amedia Premium HD",
+                "file": "https://stream01.vnet.am/AmediaPremium/mono.m3u8"
+            },
+            {
+                "title": "Amedia Hit HD",
+                "file": "https://stream01.vnet.am/Nauka/mono.m3u8"
+            },
+            {
+                "title": "Дом Кино",
+                "file": "https://stream01.vnet.am/DomKino/mono.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Sports",
+        "folder": [
+            {
+                "title": "FIFA Plus",
+                "file": "https://97795926.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9GSUZBUGx1c19ITFM/playlist.m3u8"
+            },
+            {
+                "title": "Realmadrid TV",
+                "file": "https://livetv-fa.tubi.video/real-madrid/playlist.m3u8"
+            },
+            {
+                "title": "NBC Sports",
+                "file": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
+            },
+            {
+                "title": "FOX Sports",
+                "file": "https://d1jzu95oc8fgt3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zyqcok4bm0lgq/FOX_Sports.m3u8"
+            },
+            {
+                "title": "PGA Tour",
+                "file": "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_au_pgatour_001.m3u8"
+            },
+            {
+                "title": "Fuel TV",
+                "file": "https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8"
+            },
+            {
+                "title": "MTRSPT 1",
+                "file": "https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8"
+            },
+            {
+                "title": "Motorsport.TV",
+                "file": "https://6a4334bc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdV9Nb3RvcnNwb3J0VFZfSExT/playlist.m3u8"
+            },
+            {
+                "title": "MAVTV Motor Sports",
+                "file": "https://mavtv-mavtvglobal-1-au.samsung.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Horse and Country",
+                "file": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "NFL",
+                "file": "https://lnc-nfl2.tubi.video/contribution-live/tubi/bDdZdzADyBC3ICW7/nfldigital1_tubi_v2/master.m3u8"
+            },
+            {
+                "title": "MLB",
+                "file": "https://lnc-mlb2.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Motor Trend Fast TV",
+                "file": "https://lnc-motortrend2.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Waypoint TV",
+                "file": "https://lnc-waypoint.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Women Sports Network",
+                "file": "https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Racing America",
+                "file": "https://lnc-racing-america.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Fubo Sports",
+                "file": "https://livetv-fa.tubi.video/fubo/master.m3u8"
+            },
+            {
+                "title": "Stadium",
+                "file": "https://lnc-stadium.tubi.video/master.m3u8"
+            },
+            {
+                "title": "Bein Sports Xtra",
+                "file": "https://plexaaaaa-beinxtra-plex-5azoe.amagi.tv/playlist/plexAAAAA-beinxtra-plex/playlist.m3u8"
+            },
+            {
+                "title": "NHRA",
+                "file": "https://lnc-nhra.tubi.video/nh.m3u8"
+            },
+            {
+                "title": "PowerNation",
+                "file": "https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist/amg01258-raycomsports-powernationau-samsungau/playlist.m3u8"
+            },
+            {
+                "title": "Trace Sport Stars",
+                "file": "https://tracesportstars-freetv.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-freetv/CDN/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Movies",
+        "folder": [
+            {
+                "title": "Warner Bros. TV At the Movies",
+                "file": "https://livetv-fa.tubi.video/wbd-at-the-movies/playlist.m3u8"
+            },
+            {
+                "title": "Non-Stop '90s",
+                "file": "https://linear-744.frequency.stream/mt/plex/744/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "CW Forever",
+                "file": "https://linear-850.frequency.stream/mt/plex/850/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "CW Gold",
+                "file": "https://linear-851.frequency.stream/mt/plex/851/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "MovieSphere",
+                "file": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "MovieSphere by Lionsgate",
+                "file": "https://plexaaaaa-moviesphere-plex-efzys.amagi.tv/playlist/plexAAAAA-moviesphere-plex/playlist.m3u8"
+            },
+            {
+                "title": "Icon Film Channel Classics",
+                "file": "https://iconfilmsdistribution-iconfilmchannelclassics-1-eu.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Miramax Movie Channel",
+                "file": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "Universal Movies",
+                "file": "https://xumo-xumoent-ch839-d5ey0.fast.nbcuni.com/live/master.m3u8"
+            },
+            {
+                "title": "IFC Films Picks",
+                "file": "https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Great! Movies",
+                "file": "https://amg01753-amg01753c3-plex-us-3471.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Sony Movies English",
+                "file": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8"
+            },
+            {
+                "title": "Sony Cine Español",
+                "file": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8"
+            },
+            {
+                "title": "CineLife",
+                "file": "https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando/playlist.m3u8"
+            },
+            {
+                "title": "MovieDome",
+                "file": "https://amg00771-kochfilmsgerman-moviedomeuk-xiaomi-h8dwy.amagi.tv/playlist/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8"
+            },
+            {
+                "title": "Gravitas Movies",
+                "file": "https://gravitas-movies-us.localnow.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Tubi Originals",
+                "file": "https://lnc-tubi-originals.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Samuel Goldwyn",
+                "file": "https://samuelgoldwyn-films-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Samuel Goldwyn International",
+                "file": "https://samuelgoldwyn-international-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Top Movies English",
+                "file": "https://rakuten-topfree-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Top Movies Français",
+                "file": "https://rakuten-topfree-7-fr.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Top Movies Deutsch",
+                "file": "https://rakuten-topfree-3-de.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Top Movies Italiano",
+                "file": "https://rakuten-topfree-6-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Top Movies Español",
+                "file": "https://rakuten-topfree-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV British Films",
+                "file": "https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Films Français",
+                "file": "https://rakuten-films-francais-1-fr.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Deutsches Kino",
+                "file": "https://rakuten-deutsches-kino-1-de.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Classico Italiano",
+                "file": "https://rakuten-classico-1-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Cine Español",
+                "file": "https://rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Comedy",
+        "folder": [
+            {
+                "title": "National Lampoon",
+                "file": "https://linear-758.frequency.stream/mt/plex/758/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Hit Sitcoms",
+                "file": "https://amg00136-wbd-amg00136c46-plex-us-4743.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hitsitcomsall-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Comedy English",
+                "file": "https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Comedy Français",
+                "file": "https://rakuten-comedymovies-7-fr.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Comedy Deutsch",
+                "file": "https://rakuten-comedymovies-3-de.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Comedy Italiano",
+                "file": "https://rakuten-comedymovies-6-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Comedy Español",
+                "file": "https://rakuten-comedymovies-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "BBC Comedy",
+                "file": "https://bbc-comedy-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Great! Comedy",
+                "file": "https://linear-857.frequency.stream/mt/plex/857/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "CBC Comedy",
+                "file": "https://amg00788-cbc-amg00788c2-xumo-us-3053.playouts.now.amagi.tv/master.m3u8"
+            },
+            {
+                "title": "BET x Tyler Perry Comedy",
+                "file": "https://linear-867.frequency.stream/mt/plex/867/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "Three's Company",
+                "file": "https://amg00145-amg00145c12-plex-ca-4362.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-threescompany-plexca/playlist.m3u8"
+            },
+            {
+                "title": "TBD",
+                "file": "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8"
+            },
+            {
+                "title": "NBC SNL Vault",
+                "file": "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8"
+            },
+            {
+                "title": "DryBar Comedy",
+                "file": "https://dbrb49pjoymg4.cloudfront.net/10001/99991124/hls/master.m3u8?ads.xumo_channelId=99991124"
+            },
+            {
+                "title": "LOL! Stand Up",
+                "file": "https://lnc-lol-stand-up.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "LOL! Network",
+                "file": "https://lnc-lol-network2.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Just For Laughs",
+                "file": "https://distributionsjustepourrire-justforlaughstv-1-us.localnow.wurl.tv/4300.m3u8"
+            },
+            {
+                "title": "Just For Laughs Gags",
+                "file": "https://streams2.sofast.tv/ptnr-stirr/genre-Comedy/lang-Non-Verbal/ctgr-Comedy/title-JUST_FOR_LAUGHS_GAGS/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/manifest.m3u8"
+            },
+            {
+                "title": "Jamie Kennedy",
+                "file": "https://d3syz0v7slrrtc.cloudfront.net/dist/localnow/459/hls/master/playlist_1280x720.m3u8"
+            },
+            {
+                "title": "Johnny Carson TV",
+                "file": "https://d1596annxycy8f.cloudfront.net/playlistR1080p.m3u8"
+            },
+            {
+                "title": "Comics Unleashed",
+                "file": "https://dy2lf8sozx5r7.cloudfront.net/dist/localnow/208/hls/master/playlist_1280x720_m.m3u"
+            },
+            {
+                "title": "Funny You Should Ask",
+                "file": "https://dr8huhzahv4uq.cloudfront.net/dist/localnow/207/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "Comedy Classics",
+                "file": "https://dvouaiqwub6m4.cloudfront.net/d/BLAPLURAKTZNFVVA1IDI/hls3/now_-1m_15s/0000000000030100/0000000000030200/m.m3u8"
+            },
+            {
+                "title": "The Red Green Show",
+                "file": "https://answermedia-theredgreenshow-2-us.localnow.wurl.tv/4300.m3u8"
+            },
+            {
+                "title": "WITZ-Comedy",
+                "file": "https://bec-witz-1-us.localnow.wurl.tv/4300.m3u8"
+            },
+            {
+                "title": "Funny or Die",
+                "file": "https://funny-or-die-1-us.localnow.wurl.tv/4300.m3u8"
+            },
+            {
+                "title": "FilmRise America's Dumbest Criminals",
+                "file": "https://lnc-americas-dumbest-criminals.tubi.video/index_5.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Horror & Sci-Fi & Crime",
+        "folder": [
+            {
+                "title": "Warner Bros. TV Horror Stories",
+                "file": "https://amg00136-wbd-amg00136c48-plex-us-4745.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-horrorstoriesall-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Scares by Shudder",
+                "file": "https://amc-scaresbyshudder-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "OuterSphere by Lionsgate",
+                "file": "https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8"
+            },
+            {
+                "title": "Dark Matter",
+                "file": "https://7ea4da19339c406f844849e68be9562d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DarkMatterTV/playlist.m3u8"
+            },
+            {
+                "title": "Britbox Mysteries",
+                "file": "https://bbc-britboxmysteries-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "BBC Sci-Fi",
+                "file": "https://bbc-scifi-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Great! Mystery",
+                "file": "https://linear-861.frequency.stream/mt/plex/861/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "Electric Now",
+                "file": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=53"
+            },
+            {
+                "title": "FrightFlix",
+                "file": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3964"
+            },
+            {
+                "title": "Watch It Scream",
+                "file": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=3971"
+            },
+            {
+                "title": "Screambox TV",
+                "file": "https://amg01201-cinedigmenterta-bloodydisgusting-freetv-ad.amagi.tv/playlist/amg01201-cinedigmenterta-bloodydisgusting-freetv/playlist.m3u8"
+            },
+            {
+                "title": "TV One",
+                "file": "https://lnc-tv-one.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Haunt TV",
+                "file": "https://lnc-haunttv.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "FilmRise Horror",
+                "file": "https://lnc-filmrise-horror.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Horror by Alter",
+                "file": "https://lnc-alter.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "CrimeFlix",
+                "file": "https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8"
+            },
+            {
+                "title": "Rakuten TV Series Crime Italiano",
+                "file": "https://rakuten-seriecrime-6-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Series Crime Español",
+                "file": "https://rakuten-seriescrime-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "CNN HLN",
+                "file": "https://englishprofile.ru/tvplaylistsAItttwPwrziCJ7Ag/CNN-HLN__Warnermedia__a.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Chasing Criminals",
+                "file": "https://livetv-fa.tubi.video/wbd-chasing-criminals/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Living with Evil",
+                "file": "https://livetv-fa.tubi.video/wbd-living-with-evil/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Crime Scenes",
+                "file": "https://livetv-fa.tubi.video/wbd-crime-scenes/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Ghosts Are Real",
+                "file": "https://livetv-fa.tubi.video/wbd-supernatural/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Mysterious Worlds",
+                "file": "https://livetv-fa.tubi.video/wbd-mysteries/playlist.m3u8"
+            },
+            {
+                "title": "Unxplained Zone",
+                "file": "https://5f8e578f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9VblhwbGFpbmVkWm9uZV9ITFM/playlist.m3u8"
+            },
+            {
+                "title": "Crime 360 by A&E",
+                "file": "https://eb3933ec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9DcmltZTM2MF9ITFM/playlist.m3u8"
+            },
+            {
+                "title": "Crimes Cults Killers by A&E",
+                "file": "https://44abd74d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9LcmltaW5hbF9ITFM/playlist.m3u8"
+            },
+            {
+                "title": "Cold Case Files by A&E",
+                "file": "https://amg00276-aetelevisionnet-coldcasefiles-plex-3s8iq.amagi.tv/playlist/amg00276-aetelevisionnet-coldcasefiles-plex/playlist.m3u8"
+            },
+            {
+                "title": "FilmRise True Crime",
+                "file": "https://lnc-filmrise-true-crime.tubi.video/index.m3u8"
+            },
+            {
+                "title": "FilmRise Forensic Files",
+                "file": "https://lnc-forensic-files.tubi.video/index.m3u8"
+            },
+            {
+                "title": "FilmRise Unsolved Mysteries",
+                "file": "https://lnc-unsolved-mysteries.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Crime and Punishment",
+                "file": "https://rightsboosterltd-crime-and-punishment-1-us.localnow.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "NBC Dateline",
+                "file": "https://lnc-dateline.tubi.video/master.m3u8"
+            },
+            {
+                "title": "Total Crime",
+                "file": "https://lnc-total-crime.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Crime Stoppers: Case Files",
+                "file": "https://d2g5cnznmcm82p.cloudfront.net/dist/localnow/290/hls/master/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Action & Thrillers",
+        "folder": [
+            {
+                "title": "Universal Action",
+                "file": "https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8"
+            },
+            {
+                "title": "Rakuten TV Action English",
+                "file": "https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Action Français",
+                "file": "https://rakuten-actionmovies-7-fr.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Action Deutsch",
+                "file": "https://rakuten-actionmovies-3-de.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Action Italiano",
+                "file": "https://rakuten-actionmovies-6-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Action Español",
+                "file": "https://rakuten-actionmovies-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Gravitas Adrenalin",
+                "file": "https://gravitas-adrenaline-1-us.localnow.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Action!!!",
+                "file": "https://bec-action-1-us.localnow.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "AMC Thrillers",
+                "file": "https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Thrillers English",
+                "file": "https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Thrillers Français",
+                "file": "https://rakuten-thriller-7-fr.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Thrillers Deutsch",
+                "file": "https://rakuten-thriller-3-de.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Thrillers Italiano",
+                "file": "https://rakuten-thriller-6-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Thrillers Español",
+                "file": "https://rakuten-thriller-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Drama & Romance",
+        "folder": [
+            {
+                "title": "Great! Romance",
+                "file": "https://amg01753-amg01753c2-plex-us-3470.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Romance English",
+                "file": "https://rakuten-romance-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Romance Français",
+                "file": "https://rakuten-romance-7-fr.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Romance Deutsch",
+                "file": "https://rakuten-romance-3-de.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Romance Italiano",
+                "file": "https://rakuten-romance-6-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Romance Español",
+                "file": "https://rakuten-romance-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "HerSphere by Lionsgate",
+                "file": "https://amg00353-lionsgatestudio-hersphere-plex-y739d.amagi.tv/playlist/amg00353-lionsgatestudio-hersphere-plex/playlist.m3u8"
+            },
+            {
+                "title": "Hallmark Movies & More",
+                "file": "https://d3l10ju7ii2sha.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/playlist.m3u8"
+            },
+            {
+                "title": "My Time Movie Network",
+                "file": "https://livetv-fa.tubi.video/my-time/playlist.m3u8"
+            },
+            {
+                "title": "Chicken Soup for the Soul",
+                "file": "https://amg00540-crackleplusllc-chickensoup-plex-bg2iv.amagi.tv/playlist/amg00540-crackleplusllc-chickensoup-plex/playlist.m3u8"
+            },
+            {
+                "title": "Encore+",
+                "file": "https://streams2.sofast.tv/ptnr-stirr/genre-Movies/lang-English/ctgr-Movies/title-ENCORE-ENG/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8"
+            },
+            {
+                "title": "BET x Tyler Perry Drama",
+                "file": "https://linear-866.frequency.stream/mt/plex/866/hls/master/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "TV Series",
+        "folder": [
+            {
+                "title": "ION",
+                "file": "https://livetv-fa.tubi.video/ion/playlist.m3u8"
+            },
+            {
+                "title": "ION Plus",
+                "file": "https://livetv-fa.tubi.video/ion-plus/playlist.m3u8"
+            },
+            {
+                "title": "ION Mystery",
+                "file": "https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV WatchList",
+                "file": "https://livetv-fa.tubi.video/wbd-watch-list/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Primetime Soaps",
+                "file": "https://amg00136-wbd-amg00136c49-plex-us-4746.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-primetimesoapsall-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Shows English",
+                "file": "https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Shows Français",
+                "file": "https://rakuten-tvshows-7-fr.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Shows Deutsch",
+                "file": "https://rakuten-tvshows-3-de.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Shows Italiano",
+                "file": "https://rakuten-tvshows-6-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Shows Español",
+                "file": "https://rakuten-tvshows-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Family Faves",
+                "file": "https://livetv-fa.tubi.video/wbd-all-together-now/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV On the Telly",
+                "file": "https://livetv-fa.tubi.video/wbd-on-the-telly/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Generation Drama",
+                "file": "https://livetv-fa.tubi.video/wbd-generation-drama/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV The FBI",
+                "file": "https://livetv-fa.tubi.video/wbd-the-fbi/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Nikita",
+                "file": "https://livetv-fa.tubi.video/wbd-nikita/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Nip/Tuck",
+                "file": "https://amg00136-wbd-amg00136c47-plex-us-4744.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-niptuckall-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Stories by AMC",
+                "file": "https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Maximum Effort",
+                "file": "https://livetv-fa.tubi.video/maximum-effort/master.m3u8"
+            },
+            {
+                "title": "Silent Witness & New Tricks",
+                "file": "https://bbc-silentwitnessnewtricks-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Dr. Who",
+                "file": "https://bbc-classicdrwho-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Midsomer Murders",
+                "file": "https://lnc-midsomer-murders.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Baywatch",
+                "file": "https://lnc-baywatch.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Farscape",
+                "file": "https://linear-731.frequency.stream/mt/plex/731/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "Degrassi. The Next Generation",
+                "file": "https://dhx-degrassi-1-eu.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Nashville",
+                "file": "https://lnc-nashville.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Renegade",
+                "file": "https://plex-renegade-1-eu.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "The Librarians ",
+                "file": "https://plex-ono-1-eu.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Merlin",
+                "file": "https://plex-merlin-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Hunter",
+                "file": "https://lnc-hunter-filmrise.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Heartland",
+                "file": "https://lnc-heartland.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Cold Squad",
+                "file": "https://d27j42uhw2fink.cloudfront.net/dist/localnow/240/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "Anger Management",
+                "file": "https://lnc-anger-management.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Are We There Yet?",
+                "file": "https://lnc-are-we-there-yet.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "ALF",
+                "file": "https://linear-729.frequency.stream/mt/plex/729/hls/master/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Classic Movies & Series",
+        "folder": [
+            {
+                "title": "Warner Bros. TV Classic Cinema",
+                "file": "https://livetv-fa.tubi.video/wbd-classic-cinema/playlist.m3u8"
+            },
+            {
+                "title": "Samuel Goldwyn Classics",
+                "file": "https://samuelgoldwyn-classics-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Cinevault Classics",
+                "file": "https://lnc-cinevault-classics.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Cinevault Westerns",
+                "file": "https://lnc-cinevault-westerns.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Mercury+",
+                "file": "https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-MERCURY-ENG/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8"
+            },
+            {
+                "title": "Legend Films",
+                "file": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/legendfilms_720p/playlist.m3u8"
+            },
+            {
+                "title": "Action Hollywood Movies",
+                "file": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
+            },
+            {
+                "title": "Cowboy Movie Channel",
+                "file": "https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/manifest.m3u8"
+            },
+            {
+                "title": "FilmRise Western",
+                "file": "https://lnc-filmrise-western.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Old West",
+                "file": "https://d3lfu5nyg93zvy.cloudfront.net/d/4IXOLHSBOS5AIVSPUGZB/hls3/now_-1m_15s/0000000000030100/0000000000010200/m.m3u8"
+            },
+            {
+                "title": "Cowboy Classics",
+                "file": "https://d5kh9fi0digss.cloudfront.net/d/HSKV2TFJKIB08IVJ32W0/hls3/now_-1m_15s/0000000000030100/0000000000030200/m.m3u8"
+            },
+            {
+                "title": "History Film",
+                "file": "https://d1vrsl7gxmlhz0.cloudfront.net/d/DUG4JWOV4D85BJHELBLG/hls3/now_-1m_15s/0000000000030100/0000000000020200/m.m3u8"
+            },
+            {
+                "title": "RCM",
+                "file": "https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8"
+            },
+            {
+                "title": "Grit Xtra",
+                "file": "https://livetv-fa.tubi.video/grit-extra/playlist.m3u8"
+            },
+            {
+                "title": "FilmRise Rifleman",
+                "file": "https://lnc-rifleman-filmrise.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Wanted: Dead or Alive",
+                "file": "https://lnc-wanted-dead-or-alive.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Hi-Yah!",
+                "file": "https://lnc-hi-yah.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Kung Fu Movies",
+                "file": "https://d1cw35xaqo25gg.cloudfront.net/d/XUU229YVT9R4U3TK0SQC/hls3/now_-1m_15s/0000000000030100/0000000000010200/m.m3u8"
+            },
+            {
+                "title": "Urban Action Channel",
+                "file": "https://d15qiu93lo02mq.cloudfront.net/d/PNYXCTA5SUANEQZBS1IR/hls3/now_-1m_15s/0000000000030100/0000000000020200/m.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "TV Shows",
+        "folder": [
+            {
+                "title": "Warner Bros. TV Love & Desire",
+                "file": "https://livetv-fa.tubi.video/wbd-keeping-it-real/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Love & Marriage",
+                "file": "https://livetv-fa.tubi.video/wbd-love-marriage/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Unique Lives",
+                "file": "https://livetv-fa.tubi.video/wbd-slice-life/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Family Rulez!",
+                "file": "https://livetv-fa.tubi.video/wbd-family-rules/playlist.m3u8"
+            },
+            {
+                "title": "NBC Bravo Vault",
+                "file": "https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8"
+            },
+            {
+                "title": "NBC Bravo The Real Housewives Vault",
+                "file": "https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8"
+            },
+            {
+                "title": "AMC Absolute Reality",
+                "file": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Real Series",
+                "file": "https://rakuten-realseries-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Estilo y Vida Español",
+                "file": "https://rakuten-estilo-y-vida-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "BBC Game Shows",
+                "file": "https://bbc-gameshows-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Fear Factor",
+                "file": "https://lnc-fear-factor.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "WipeoutXtra",
+                "file": "https://lnc-wipeout-xtra.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Love Quest",
+                "file": "https://lnc-all-real.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "The Biggest Loser",
+                "file": "https://lnc-biggest-loser.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Deal Or No Deal",
+                "file": "https://lnc-deal-or-no-deal.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Masked Singer",
+                "file": "https://lnc-masked-singer.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Doctor G",
+                "file": "https://lnc-dr-g-filmrise.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Mr. Beast",
+                "file": "https://lnc-mr-beast.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Four in a Bed",
+                "file": "https://lnc-four-in-a-bed.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Wire 2 Fish",
+                "file": "https://d1qbefisv0unpv.cloudfront.net/dist/localnow/80/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "American Pickers Channel",
+                "file": "https://linear-548.frequency.stream/mt/plex-canada/548/hls/master/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Explore & Nature",
+        "folder": [
+            {
+                "title": "History 365",
+                "file": "https://da8eq3kpws4wh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Paws & Claws",
+                "file": "https://livetv-fa.tubi.video/wbd-paws-claws/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Travel + Adventure",
+                "file": "https://livetv-fa.tubi.video/wbd-travel-and-adventure/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV No Reservations",
+                "file": "https://amg00136-wbd-amg00136c45-plex-us-4742.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-noreservationsall-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV In the Garage",
+                "file": "https://livetv-fa.tubi.video/wbd-in-the-garage/playlist.m3u8"
+            },
+            {
+                "title": "Xtreme Outdoor by History",
+                "file": "https://9bd99d43.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ta2lsbHNBbmRUaHJpbGxzX0hMUw/playlist.m3u8"
+            },
+            {
+                "title": "Ice Road Truckers by History",
+                "file": "https://3787c49a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3u8"
+            },
+            {
+                "title": "Ax Men by History",
+                "file": "https://335e33e2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9BeE1lbl9ITFM/playlist.m3u8"
+            },
+            {
+                "title": "Torque by History",
+                "file": "https://df7ed838.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ub3JxdWVfSExT/playlist.m3u8"
+            },
+            {
+                "title": "The Wicked Tuna Channel",
+                "file": "https://amg00353-lionsgatestudio-wickedtunanl-samsungnl-l67j0.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8"
+            },
+            {
+                "title": "InTrouble",
+                "file": "https://amg00861-terninternation-introuble-samsunguk-b0g76.amagi.tv/playlist/amg00861-terninternation-introuble-samsunguk/playlist.m3u8"
+            },
+            {
+                "title": "InFast",
+                "file": "https://amg00861-terninternation-lifestyle-samsunguk-nbaah.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsunguk/playlist.m3u8"
+            },
+            {
+                "title": "InWild",
+                "file": "https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8"
+            },
+            {
+                "title": "4 Adventure",
+                "file": "https://lnc-4adventure.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "BBC Travel",
+                "file": "https://bbc-travel-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "BBC Earth",
+                "file": "https://amg00793-amg00793c6-plex-us-2667.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Top Gear",
+                "file": "https://bbc-topgear-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "PBS Nature",
+                "file": "https://amg01597-wnetnewyorkpubl-pbsnature-plex-6o5pl.amagi.tv/playlist/amg01597-wnetnewyorkpubl-pbsnature-plex/playlist.m3u8"
+            },
+            {
+                "title": "Love Nature",
+                "file": "https://lnc-love-nature.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Wild Earth",
+                "file": "https://plexaaaaa-wildearth-plex-t4zha.amagi.tv/playlist/plexAAAAA-wildearth-plex/playlist.m3u8"
+            },
+            {
+                "title": "Real Wild",
+                "file": "https://amg00426-littledotstudio-realwild-plex-mob3c.amagi.tv/playlist/amg00426-littledotstudio-realwild-plex/playlist.m3u8"
+            },
+            {
+                "title": "Adventure Earth",
+                "file": "https://autentic-adventure-earth-1-eu.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Wonder",
+                "file": "https://ldsaaaaaa-wonder-plex-e6km7.amagi.tv/playlist/ldsAAAAAA-wonder-plex/playlist.m3u8"
+            },
+            {
+                "title": "TravelXP",
+                "file": "https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Pattrn",
+                "file": "https://lnc-pattrn.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "S+",
+                "file": "https://s-plus-tcl.evrideo.tv/91cf8e90-ebe5-48b4-a0ad-6d001d27d479_1000012093_HLS/master.m3u8"
+            },
+            {
+                "title": "Heritage Tourism",
+                "file": "https://heritage-tourism-xiamoi.evrideo.tv/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8"
+            },
+            {
+                "title": "Heritage +",
+                "file": "https://heritage-plus-xiamoi.evrideo.tv/05c9af40-9d2b-445b-ab20-5e46889877ce_1000010996_HLS/master.m3u8"
+            },
+            {
+                "title": "Jack Hannah",
+                "file": "https://lnc-jack-hannah.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Xplore",
+                "file": "https://lnc-xplore.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "America the Beautiful by Journy",
+                "file": "https://linear-298.frequency.stream/mt/plex/298/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "Xploration Station",
+                "file": "https://srpdigital-xplorationstation-1-us.localnow.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Pet Club TV",
+                "file": "https://petclub-samsungaus.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "The Pet Collective",
+                "file": "https://jukin-thepetcollective-1-eu.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Weather Spy",
+                "file": "https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Outside",
+                "file": "https://lnc-outsidetv.tubi.video/xumo.m3u8"
+            },
+            {
+                "title": "Discovery CE",
+                "file": "https://stream01.vnet.am/DiscoveryChannel/track-v1a1/playlist.m3u8"
+            },
+            {
+                "title": "Animal Planet CE",
+                "file": "https://stream01.vnet.am:/AnimalPlanet/track-v1a1/playlist.m3u8"
+            },
+            {
+                "title": "ID CE",
+                "file": "https://stream01.vnet.am/InvestigationDiscovery/track-v1a1/playlist.m3u8"
+            },
+            {
+                "title": "National Geographic RU English",
+                "file": "https://stream02.vnet.am/NationalGeographic/track-v1a2/playlist.m3u8"
+            },
+            {
+                "title": "National Geographic Wild RU English",
+                "file": "https://stream02.vnet.am/NatGeoWild/track-v1a2/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Space & Science",
+        "folder": [
+            {
+                "title": "Warner Bros. TV How To",
+                "file": "https://livetv-fa.tubi.video/wbd-how-to/playlist.m3u8"
+            },
+            {
+                "title": "Modern Marvels by History",
+                "file": "https://277b8244.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8"
+            },
+            {
+                "title": "InWonder",
+                "file": "https://amg00861-terninternation-inwonder-samsunguk-ld98m.amagi.tv/playlist/amg00861-terninternation-inwonder-samsunguk/playlist.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV MythBusters",
+                "file": "https://amg00136-wbd-amg00136c44-plex-us-4741.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-mythbustersall-plexus/playlist.m3u8"
+            },
+            {
+                "title": "StarTalk TV",
+                "file": "https://linear-770.frequency.stream/mt/plex/770/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "Cosmos",
+                "file": "https://lnc-cosmos.tubi.video/index.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "People & History & Military",
+        "folder": [
+            {
+                "title": "BBC History",
+                "file": "https://amg00276-aetelevisionnet-militaryheroes-plex-7atjl.amagi.tv/playlist/amg00276-aetelevisionnet-militaryheroes-plex/playlist.m3u8"
+            },
+            {
+                "title": "PBS History",
+                "file": "https://amg02333-pbsdistribution-pbshistory-samsunguk-nxu1j.amagi.tv/playlist/amg02333-pbsdistribution-pbshistory-samsunguk/playlist.m3u8"
+            },
+            {
+                "title": "4 Emergency",
+                "file": "https://lnc-4emergency.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Military Heroes by History",
+                "file": "https://amg00276-aetelevisionnet-militaryheroes-plex-7atjl.amagi.tv/playlist/amg00276-aetelevisionnet-militaryheroes-plex/playlist.m3u8"
+            },
+            {
+                "title": "Docu Vision",
+                "file": "https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Documentary/title-DOCUVISION-ENG/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/manifest.m3u8"
+            },
+            {
+                "title": "Bloomberg Originals",
+                "file": "https://bloomberg-quicktake-4-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "CNN Originals",
+                "file": "https://amg01918-cnnus-amg01918c2-plex-us-4721.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-plexus/playlist.m3u8"
+            },
+            {
+                "title": "The Guardian",
+                "file": "https://rakuten-guardian-1-gb.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Documentaries English",
+                "file": "https://rakuten-spotlight-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Documentaries Français",
+                "file": "https://rakuten-spotlight-7-fr.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Documentaries Deutsch",
+                "file": "https://rakuten-spotlight-3-de.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Documentaries Italiano",
+                "file": "https://rakuten-spotlight-6-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Documentaries Español",
+                "file": "https://rakuten-spotlight-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Gravitas Documentaries",
+                "file": "https://gravitas-documentaries-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Documentary Plus",
+                "file": "https://documentaryplus-documentaryplus-2-eu.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "True History",
+                "file": "https://d1rjlj1trz5h7l.cloudfront.net/dist/localnow/188/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "CGTN Documentary HD",
+                "file": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+            },
+            {
+                "title": "CGTN Documentary",
+                "file": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
+            },
+            {
+                "title": "TED",
+                "file": "https://tedconferences-ted-1-us.plex.wurl.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Home & Garden",
+        "folder": [
+            {
+                "title": "NBC LX Home",
+                "file": "https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8"
+            },
+            {
+                "title": "Warner Bros. TV Welcome Home",
+                "file": "https://livetv-fa.tubi.video/wbd-welcome-home/playlist.m3u8"
+            },
+            {
+                "title": "BBC Home & Garden",
+                "file": "https://bbc-bbchome-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Gardening with Monty Don",
+                "file": "https://lnc-gardening-monty-don.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Property Brothers Channel",
+                "file": "https://linear-684.frequency.stream/mt/plex-canada/684/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "BBC Antiques Roadshow UK",
+                "file": "https://bbc-antiquesroadshowuk-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "PBS Antique Roadshow US",
+                "file": "https://amg00953-pbsusa-antiroadshow-plex-yrao6.amagi.tv/playlist/amg00953-pbsusa-antiroadshow-plex/playlist.m3u8"
+            },
+            {
+                "title": "Antique Roadtrip",
+                "file": "https://amg00953-pbsusa-antiroadtrip-plex-96pv9.amagi.tv/playlist/amg00953-pbsusa-antiroadtrip-plex/playlist.m3u8"
+            },
+            {
+                "title": "Deal Zone by History",
+                "file": "https://c86bc87f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9EZWFsWm9uZV9ITFM/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Food",
+        "folder": [
+            {
+                "title": "Warner Bros. TV Sweet Escapes",
+                "file": "https://livetv-fa.tubi.video/wbd-sweet-escapes/playlist.m3u8"
+            },
+            {
+                "title": "NBC Bravo Top Chef Vault",
+                "file": "https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8"
+            },
+            {
+                "title": "BBC Food",
+                "file": "https://bbc-bbcfood-1-us.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "PBS Food",
+                "file": "https://amg02333-pbsdistribution-pbsfood-plex-qwxvm.amagi.tv/playlist/amg02333-pbsdistribution-pbsfood-plex/playlist.m3u8"
+            },
+            {
+                "title": "America's Test Kitchen",
+                "file": "https://lnc-americas-test-kitchen.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Gordon Ramsey",
+                "file": "https://lnc-gordon-ramsey.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Great British Menu",
+                "file": "https://lnc-great-british-menu.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Hell's Kitchen",
+                "file": "https://amg00654-itvstudios-hellskitchennl-samsungnl-kvxhp.amagi.tv/playlist/amg00654-itvstudios-hellskitchennl-samsungnl/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Black TV",
+        "folder": [
+            {
+                "title": "Ebony TV by Lionsgate",
+                "file": "https://livetv-fa.tubi.video/ebony-tv/playlist.m3u8"
+            },
+            {
+                "title": "Bounce XL",
+                "file": "https://lnc-bounce-xl.tubi.video/playlist_1920x1080_4300k.m3u8"
+            },
+            {
+                "title": "FOX Soul",
+                "file": "https://lnc-fox-soul-scte.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Revolt Mixtape",
+                "file": "https://lnc-revolt.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Maverick Black Cinema",
+                "file": "https://lnc-maverick-black-cinema.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "FilmRise Black TV",
+                "file": "https://lnc-filmrise-blacktv.tubi.video/index.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Music",
+        "folder": [
+            {
+                "title": "Vevo Features US",
+                "file": "https://d281w17vgfepv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Pop US",
+                "file": "https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/playlist/amg00056-vevotv-vevopop-plex/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Pop CA",
+                "file": "https://dy1v30y0x8p9h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lsoxdaiomx2xk/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Pop UK",
+                "file": "https://amg00056-vevotv-amg00056c6-plex-us-456.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopuk-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Pop FR",
+                "file": "https://amg00056-vevotv-amg00056c9-plex-us-459.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Pop DE",
+                "file": "https://amg00056-vevotv-amg00056c7-plex-us-457.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopde-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Pop IT",
+                "file": "https://amg00056-vevotv-amg00056c8-plex-us-458.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopit-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Pop ES",
+                "file": "https://amg00056-vevotv-amg00056c10-plex-us-460.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopes-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Pop AU",
+                "file": "https://amg00056-vevotv-vevopopau-samsungnz-wa3bw.amagi.tv/playlist/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8"
+            },
+            {
+                "title": "Vevo R&B US",
+                "file": "https://d188921up0bidw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlgl4ktqwvge1-ssai-prd/playlist.m3u8"
+            },
+            {
+                "title": "Vevo R&B CA",
+                "file": "https://d1cbrvawkqonk9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wvwra5ec1cepb/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Hip-Hop US",
+                "file": "https://amg00056-vevotv-vevohiphop-plex-om085.amagi.tv/playlist/amg00056-vevotv-vevohiphop-plex/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Hip-Hop CA",
+                "file": "https://dza79yqbrbr58.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ffmt5607f6tvw/playlist.m3u8"
+            },
+            {
+                "title": "Vevo True School Hip-Hop US",
+                "file": "https://amg00056-vevotv-amg00056c3-plex-us-453.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-trueschoolhiphop-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Hip-Hop & R&B UK",
+                "file": "https://d2x6xe7mb8n9mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h594lykjer9r4/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Hip-Hop & R&B FR ",
+                "file": "https://amg00056-vevotv-amg00056c14-plex-us-464.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevohiphopandrbfr-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Retro Rock US",
+                "file": "https://d1uttzwuh34h7x.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5wuvgw5l0sw7j/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Retro Rock CA",
+                "file": "https://d3nfo9xsyj4x6g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6b3ql2g5p5ghn/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Retro Rock AU",
+                "file": "https://amg00056-vevotv-vevoretrorockau-samsungau-k2qqz.amagi.tv/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Country US",
+                "file": "https://amg00056-vevotv-vevocountry-plex-o6fj6.amagi.tv/playlist/amg00056-vevotv-vevocountry-plex/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Country CA",
+                "file": "https://d2041r98knr42u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e2i4d0ychztay/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Country AU",
+                "file": "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '70s US",
+                "file": "https://amg00056-vevotv-vevo70s-plex-83ipk.amagi.tv/playlist/amg00056-vevotv-vevo70s-plex/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '70s CA",
+                "file": "https://d4vvedhcuy373.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3xzrk1usyeo5h/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '70s AU",
+                "file": "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '70s & '80s UK",
+                "file": "https://dljikifwgal69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vtk9m2r3a4n44/master.m3u8"
+            },
+            {
+                "title": "Vevo '70s & '80s IT",
+                "file": "https://d3mszodjjkpvht.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rrpzpzph3tsqm/master.m3u8"
+            },
+            {
+                "title": "Vevo '70s & '80s ES",
+                "file": "https://d9a7gn34udfwh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x1td8h8f4kkdh/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '80s US",
+                "file": "https://amg00056-vevotv-vevo80s-plex-v3m0l.amagi.tv/playlist/amg00056-vevotv-vevo80s-plex/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '80s CA",
+                "file": "https://d21vna6fcjp4e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-63v0wk06v7jub/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '80s AU",
+                "file": "https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '90s US",
+                "file": "https://amg00056-vevotv-vevo90s-plex-px1tg.amagi.tv/playlist/amg00056-vevotv-vevo90s-plex/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '90s CA",
+                "file": "https://d3s3jbgkyxbxe5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4hkun7w2f8ysl/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '90s & '00s UK",
+                "file": "https://amg00056-vevotv-amg00056c11-plex-us-461.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00suk-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo '90s & '00s FR",
+                "file": "https://d7fw2de4lp6nx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0v5nxkkcfbii/master.m3u8"
+            },
+            {
+                "title": "Vevo '90s & '00s IT",
+                "file": "https://amg00056-vevotv-amg00056c12-plex-us-462.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevo90sand00sit-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo 2K US",
+                "file": "https://amg00056-vevotv-vevo2k-plex-6jb4q.amagi.tv/playlist/amg00056-vevotv-vevo2k-plex/playlist.m3u8"
+            },
+            {
+                "title": "Vevo 2K CA",
+                "file": "https://dytbv22qgcc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-igpuaas8l6wr5/playlist.m3u8"
+            },
+            {
+                "title": "Vevo 2K AU",
+                "file": "https://amg00056-vevotv-vevo2kau-samsungau-xh1pk.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8"
+            },
+            {
+                "title": "Vevo 2010s US",
+                "file": "https://d21cpy4ek4aipj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gchcemfivgmyw/playlist.m3u8"
+            },
+            {
+                "title": "Vevo 2010s CA",
+                "file": "https://d3qg5btqxll4zk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wyiqh5yupknjq/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Schlager Pop DE",
+                "file": "https://amg00056-vevotv-amg00056c15-plex-us-465.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevoschlagerpop-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Latino US",
+                "file": "https://d1jg19cd16tz4s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx7h5jeuhw79b-ssai-prd/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Latino ES",
+                "file": "https://amg00056-vevotv-amg00056c13-plex-us-463.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Íconos Latinos MX",
+                "file": "https://amg00056-vevotv-amg00056c5-plex-us-455.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolconoslatinos-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Regional Mexicano MX",
+                "file": "https://amg00056-vevotv-amg00056c4-plex-us-454.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevoregionalmexicano-plexus/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Holiday US",
+                "file": "https://d281w17vgfepv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/playlist.m3u8"
+            },
+            {
+                "title": "Vevo Christmas UK",
+                "file": "https://dk67sa99rapy3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q2crz4mdcviyz/index.m3u8"
+            },
+            {
+                "title": "Vevo Noël FR",
+                "file": "https://dfckjl811n3mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6nyqbx6v7d7d/index.m3u8"
+            },
+            {
+                "title": "Vevo Natale IT",
+                "file": "https://d2tzbxewovure9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t1t31yx8n85wn/index.m3u8"
+            },
+            {
+                "title": "Vevo Navidad ES",
+                "file": "https://d3btyzc3f0h4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-njf5bodtavm7w/index.m3u8"
+            },
+            {
+                "title": "Vevo Christmas AU",
+                "file": "https://amg00056-vevotv-vevochristmasau-samsungnz-em7g8.amagi.tv/playlist/amg00056-vevotv-vevochristmasau-samsungnz/playlist.m3u8"
+            },
+            {
+                "title": "WMX Pop",
+                "file": "https://wmx-pop-xumo.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "WMX Rock",
+                "file": "https://wmxrock-xumo.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "WMX Hip-Hop",
+                "file": "https://wmx-hiphop-xumo.amagi.tv/playlist.m3u8"
+            },
+            {
+                "title": "Trace Urban",
+                "file": "https://amg01131-tracetv-traceurban-plex-xuf85.amagi.tv/playlist/amg01131-tracetv-traceurban-plex/playlist.m3u8"
+            },
+            {
+                "title": "Trace UK",
+                "file": "https://d2u040elo6umri.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w91uvsddx3yti/trace_urban_gb.m3u8"
+            },
+            {
+                "title": "Trace Latina",
+                "file": "https://amg01131-tracetv-tracelatina-plex-w0nun.amagi.tv/playlist/amg01131-tracetv-tracelatina-plex/playlist.m3u8"
+            },
+            {
+                "title": "Trace Brasil",
+                "file": "https://amg01131-tracetv-tracebrazuca-plex-jszy8.amagi.tv/playlist/amg01131-tracetv-tracebrazuca-plex/playlist.m3u8"
+            },
+            {
+                "title": "NOW 70s",
+                "file": "https://amg01076-lightningintern-now70-fetchtv-fetchtvau-kllzs.amagi.tv/playlist/amg01076-lightningintern-now70-fetchtv-fetchtvau/playlist.m3u8"
+            },
+            {
+                "title": "NOW 80s",
+                "file": "https://amg01076-lightningintern-now80-fetchtv-fetchtvau-gisaw.amagi.tv/playlist/amg01076-lightningintern-now80-fetchtv-fetchtvau/playlist.m3u8"
+            },
+            {
+                "title": "NOW Rock",
+                "file": "https://amg01076-lightningintern-now90-fetchtv-fetchtvau-0sagg.amagi.tv/playlist/amg01076-lightningintern-now90-fetchtv-fetchtvau/playlist.m3u8"
+            },
+            {
+                "title": "Hip Hop TV",
+                "file": "https://chili-hiphop-tv-1-it.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rock TV",
+                "file": "https://chili-rock-tv-1-it.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Party Tyme Karaoke",
+                "file": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64"
+            }
+        ]
+    },
+    {
+        "title": "Relaxation",
+        "folder": [
+            {
+                "title": "Wellbeing TV",
+                "file": "https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-secomcofites-my-myzen-en-plex/cb543d16736c648684c83c65cef343a3f9a053fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27752cd9e0a957f378bbdb4304b3f0518dc081ffaa25dbdfeff5f5bd16fa0a1041bca6d05fe922b96935feec2cb5980469615a042ccd0a994d61385989265bb43ba6c0b09732dcdd934c19a0bb397cb383c993c2a1f1a53aba096aa4f6585144258aeaf988d8e9e79bee19f717b4dd932ad0de2029f78b900a6933fcacf9eea328dbd39a6210702b5f7af9afe4f42d5c51c9e9bb650749cfa0d7945c063cb296945f85f2c28f6a036be9359f797611834d990479293a188af9f8f469d36de8d9cf25b161b375452d60feaf269aa8735ca164ee00a7c34c1ac5be39051f77e7a106e95895f9b2a1eb2da9f86cd0735c875095dd2ddb831f30de13b7675e921f8d56922d96642b23c33ff57229302d28c6ca4f795b55d7b82d7c914ab34afad5c86bf42887d2c550784f72e744c583285bd3143632f830dcffbfecc5b4540e0fec6fb80743d0432181b4ca8eaf57f968b8f784d4e8f0368303a4057af05f47bd0175a053c864c80e2583ad748787eb7e7775e557e8681f1b888c1d941a7308181a8791c3a5f62af3a4a733d84f8de0f8f4d21144d548e0b6b54ae470b1298f2e7d1d9d13e80cc1ee152042d62cbf41259732a4a62049f9570997cf09c0aaa9ed81c81afba1b4b8133b41252f9f4d97ff3f98ed7456ec9343c4eaaf3c8962018a1b3f629a1cf19/9/1920x1080_4716800/index.m3u8"
+            },
+            {
+                "title": "Relaxing Winterscapes",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/master.m3u8"
+            },
+            {
+                "title": "Spring Escape",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8"
+            },
+            {
+                "title": "Autumn Escape",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8"
+            },
+            {
+                "title": "Relaxing Rain",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8"
+            },
+            {
+                "title": "Tranquil Thunderstorms",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8"
+            },
+            {
+                "title": "Island Escape",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8"
+            },
+            {
+                "title": "Fish Tank",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8"
+            },
+            {
+                "title": "Fireplace Lounge",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8"
+            },
+            {
+                "title": "Study Lounge",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/master.m3u8"
+            },
+            {
+                "title": "Sonicentric",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/master.m3u8"
+            },
+            {
+                "title": "Quietude",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8"
+            },
+            {
+                "title": "NatureStream TV",
+                "file": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8"
+            },
+            {
+                "title": "Screendreams by Invincible",
+                "file": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5301"
+            },
+            {
+                "title": "Drone TV",
+                "file": "https://airvuz-dronetv-1-us.localnow.wurl.tv/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Kids & Family & Faith",
+        "folder": [
+            {
+                "title": "Kidd0+",
+                "file": "https://streams2.sofast.tv/ptnr-stirr/genre-Education/lang-English/ctgr-Kids/title-KIDDO-ENG/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/manifest.m3u8"
+            },
+            {
+                "title": "Rakuten TV Family English",
+                "file": "https://rakuten-family-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Family Français",
+                "file": "https://rakuten-family-7-fr.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Family Deutsch",
+                "file": "https://rakuten-family-3-de.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Family Italiano",
+                "file": "https://rakuten-family-6-it.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Family Español",
+                "file": "https://rakuten-family-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Family Español",
+                "file": "https://rakuten-family-2-es.xiaomi.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "Xumo Kids",
+                "file": "https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107"
+            },
+            {
+                "title": "TBN Smile",
+                "file": "https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/.m3u8"
+            },
+            {
+                "title": "TBN Inspire",
+                "file": "https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/.m3u8"
+            },
+            {
+                "title": "TBN",
+                "file": "https://d7ge95bb03xsu.cloudfront.net/out/v1/e0fd0e2c760641fa816a3e216b3ca9c0/tbn-stirr.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Gaming and more",
+        "folder": []
+    },
+    {
+        "title": "Lifestyle & Art",
+        "folder": [
+            {
+                "title": "TMZ",
+                "file": "https://lnc-tmz.tubi.video/index.m3u8"
+            },
+            {
+                "title": "Reelz - Famous & Infamous",
+                "file": "https://lnc-reelz.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Vice",
+                "file": "https://lnc-vice.tubi.video/playlist.m3u8"
+            },
+            {
+                "title": "Fashion TV",
+                "file": "https://fashiontv-fashiontv-5-eu.plex.wurl.tv/playlist.m3u8"
+            },
+            {
+                "title": "BelAir TV",
+                "file": "https://amg01492-secomsasmediart-museumtv-en-plex-abtzr.amagi.tv/playlist/amg01492-secomsasmediart-museumtv-en-plex/cb543d16736c648684c83c65cef343a3f9a053fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27752cd9e0a957f378bbdb4304b3f0518dc081ffaa25dbdfeff5f5bd16fa0a1041bca6d05fe922b96935feec2cb5980469615a042ccd0a994d61385989265bb43e0670c087b79cad834c19a0bb397cb383c993c711e4850abf592ab4c69d213400af9adc88d8e9e79bee19f717b4dd932ad0de2029f78b900a6933fcacf9eea328dbd39a6210702b5f7af9afe4f42d5c51c9e9bb650749cfa0d7945c063cb296945f85f2c28f6a036be9359f797611834d990479293a188af9f8f469d36de8d9cf25b161b375452d60feaf269aa8735ca164ee00a7c34c1ac5be39051f77e7a106e95895f9b2a1eb2da9f86cd0735c875095dd2ddb831f30de13b7675e921f8d56922d96642b23c33ff57229302d28c6ca4f795b55d7b82d7c914ab34afad5c86bf42887d2c550784f72e744c583285bd3143632f830dcffbfecc5b4540e0fec6fb80743d0432181b4ca8eaf57f968b8f784d4e8f0368303a4057af05f47bd0175a053c864c80e2583ad748787eb7e7775e557e8681f1b888c1d941a7308181a8791c3a5f62af3a4a733d84f8de0f8f4d21144d548e0b6b54ae470b1298f2e7d1d9d13e80cc1ee152042d62cbf41259732a4a62049f9570997cf09c0aaa9ed81c81afba1b4b8133b41252f9f4d97ff3f98ed7456cc1f3072932683a559537f11c0cde1d63b69956/190/1920x1080_4716800/index.m3u8"
+            },
+            {
+                "title": "AFV Family",
+                "file": "https://d1uj53wi5wpkn3.cloudfront.net/dist/localnow/12/hls/master/playlist_1280x720.m3u8"
+            },
+            {
+                "title": "People are Awesome",
+                "file": "https://jukin-peopleareawesome-international-4-us.plex.wurl.tv/e864654a97a2515c986325db9af8fea4.m3u8"
+            },
+            {
+                "title": "Fail Army",
+                "file": "https://failarmy-international-us.plex.wurl.tv/4300.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Rainbow",
+        "folder": [
+            {
+                "title": "DragRace Universe",
+                "file": "https://lnc-dragrace.tubi.video/playlist.m3u8"
+            }
+        ]
+    },
+    {
+        "title": "Local US",
+        "folder": [
+            {
+                "title": "FOX 5 New York",
+                "file": "https://lnc-wnyw.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "News 12 New York",
+                "file": "https://apollo.production-public.tubi.io/live/ac-news12ny.m3u8"
+            },
+            {
+                "title": "FOX 32 Chicago",
+                "file": "https://lnc-wfld.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "FOX 29 Philadelphia",
+                "file": "https://lnc-wtxf.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "FOX 4 Dallas–Fort Worth",
+                "file": "https://lnc-kdfw.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "ABC 8 Dallas–Fort Worth",
+                "file": "https://lnc-wfaa.tubi.video/live-1.m3u8"
+            },
+            {
+                "title": "FOX 11 Los Angeles",
+                "file": "https://lnc-kttv.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "FOX 2 San Francisco",
+                "file": "https://lnc-ktvu.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "FOX 5 Atlanta",
+                "file": "https://lnc-waga.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "NBC 11 Alive Atlanta",
+                "file": "https://lnc-wxia.tubi.video/live-1.m3u8"
+            },
+            {
+                "title": "WSB 2 Atlanta",
+                "file": "https://lnc-wsb2.tubi.video/playlistR1080p.m3u8"
+            },
+            {
+                "title": "FOX 26 Houston",
+                "file": "https://lnc-kriv.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "CBS 11 Houston",
+                "file": "https://lnc-khou.tubi.video/live-1.m3u8"
+            },
+            {
+                "title": "CBS 9 Washington DC",
+                "file": "https://lnc-wusa.tubi.video/live-1.m3u8"
+            },
+            {
+                "title": "FOX 5 Washington DC",
+                "file": "https://lnc-wttg.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "Very New Hampshire",
+                "file": "https://lnc-wmur.tubi.video/playlist_1280x720.m3u8"
+            },
+            {
+                "title": "News 25 Boston",
+                "file": "https://lnc-wfxt.tubi.video/playlistR1080p.m3u8"
+            },
+            {
+                "title": "Very Boston",
+                "file": "https://lnc-wcvb.tubi.video/playlist_1280x720.m3u8"
+            },
+            {
+                "title": "FOX 10 Phoenix",
+                "file": "https://lnc-ksaz.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "ABC 15 Phoenix",
+                "file": "https://lnc-knxv2.tubi.video/playlistR1080p.m3u8"
+            },
+            {
+                "title": "NBC 12 Phoenix",
+                "file": "https://lnc-kpnx.tubi.video/live-1.m3u8"
+            },
+            {
+                "title": "FOX 13 Seattle",
+                "file": "https://lnc-kcpq.tubi.video/index_1.m3u8"
+            },
+            {
+                "title": "NBC 5 Seattle",
+                "file": "https://lnc-king.tubi.video/live-1.m3u8"
+            },
+            {
+                "title": "KIRO 7 Seattle",
+                "file": "https://lnc-kiro.tubi.video/playlistR1080p.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "PBS Digital Studios",
+                "file": "https://d1fje3j67ohb08.cloudfront.net/dist/localnow/283/hls/master/playlist_1280x720_m.m3u8"
+            },
+            {
+                "title": "Audio TEST",
+                "file": "https://cs96-1v4.vkuseraudio.net/s/v1/ac/cNcQR2WTWMDnF_So4J7ncwpF6R4H8VLd3eqZ5IdDBY584UQVpqLHhwaSYf9DK3IfnIN3tnvCXqcOvrkq9cyyR00Bk7vO5el_aFQ1MUMKBmyuLO-TerKNChFeyA7FsMJ9sgSqHaaQcJv221bkWt-7TbntoBr7al4-_cE3swAcSByA0cc/index.m3u8"
+            },
+            {
+                "title": "Gem TEST",
+                "file": "https://storage.googleapis.com/gem-user-files/userFiles/79090834831/ABPtcPoiXIIb-vltOH70rDNUJR2gYkg-sFbIYZuuhc14SbeZ2xImg93pFuoriLL70LmWG0t37P809XtbjL0yh5rcLnMCdA.BBGt6o4dtyh_FThx"
+            }
+        ]
+    },
+    {
+        "title": "Secret RU",
+        "folder": [
+            {
+                "title": "National Geographic Russia RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000034.m3u8"
+            },
+            {
+                "title": "National Geographic Wild Russia RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004474.m3u8"
+            },
+            {
+                "title": "Discovery CE RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000001496.m3u8"
+            },
+            {
+                "title": "Animal Planet CE RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000216.m3u8"
+            },
+            {
+                "title": "ID CE RU",
+                "file": "https://stream01.vnet.am/InvestigationDiscovery/track-v1a2/playlist.m3u8"
+            },
+            {
+                "title": "TLC CE RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000001498.m3u8"
+            },
+            {
+                "title": "History CE RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000001000.m3u8"
+            },
+            {
+                "title": "History 2 CE RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000002722.m3u8"
+            },
+            {
+                "title": "Nickelodeon",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000499.m3u8"
+            },
+            {
+                "title": "NickToons",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004365.m3u8"
+            },
+            {
+                "title": "NickJr",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000449.m3u8"
+            },
+            {
+                "title": "Cartoon Network",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000015.m3u8"
+            },
+            {
+                "title": "Comedy Central",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000452.m3u8"
+            },
+            {
+                "title": "FX Russia",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004472.m3u8"
+            },
+            {
+                "title": "FX Life Russia",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004471.m3u8"
+            },
+            {
+                "title": "Eurosport 1 RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000002478.m3u8"
+            },
+            {
+                "title": "Eurosport 2 RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000002479.m3u8"
+            },
+            {
+                "title": "Setanta Sports 1 RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004498.m3u8"
+            },
+            {
+                "title": "Setanta Sports 2 RU",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004499.m3u8"
+            },
+            {
+                "title": "English Club TV",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000202.m3u8"
+            },
+            {
+                "title": "Viju Explore",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004157.m3u8"
+            },
+            {
+                "title": "Viju History",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000005528.m3u8"
+            },
+            {
+                "title": "Viju Nature",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000006482.m3u8"
+            },
+            {
+                "title": "Viju+ Sport",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000135.m3u8"
+            },
+            {
+                "title": "Моя Планета",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000001049.m3u8"
+            },
+            {
+                "title": "Big Planet",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000008052.m3u8"
+            },
+            {
+                "title": "Terra",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000008142.m3u8"
+            },
+            {
+                "title": "Приключения",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000277.m3u8"
+            },
+            {
+                "title": "Поехали",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000002991.m3u8"
+            },
+            {
+                "title": "Наука",
+                "file": "https://stream01.vnet.am/Nauka/playlist.m3u8"
+            },
+            {
+                "title": "Первый космический",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000001220.m3u8"
+            },
+            {
+                "title": "Тайны галактики",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000332.m3u8"
+            },
+            {
+                "title": "Т24",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000008.m3u8"
+            },
+            {
+                "title": "A1",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000710.m3u8"
+            },
+            {
+                "title": "A2",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000351.m3u8"
+            },
+            {
+                "title": "Amedia Hit",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000001662.m3u8"
+            },
+            {
+                "title": "Amedia Premium",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000709.m3u8"
+            },
+            {
+                "title": "Start World",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000007818.m3u8"
+            },
+            {
+                "title": "Start Air",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000007815.m3u8"
+            },
+            {
+                "title": "Viju TV1000",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000003747.m3u8"
+            },
+            {
+                "title": "Viju TV1000 Action",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000003910.m3u8"
+            },
+            {
+                "title": "Viju TV1000 Русское кино",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000003748.m3u8"
+            },
+            {
+                "title": "Viju TV1000 Новелла",
+                "file": "https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/playlist.m3u8?e=1712451472&md5=Q-iKWlKEzfjBxUyWaw4syA"
+            },
+            {
+                "title": "Viju+ Premiere",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000868.m3u8"
+            },
+            {
+                "title": "Viju+ Megahit",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000869.m3u8"
+            },
+            {
+                "title": "Viju+ Comedy",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000870.m3u8"
+            },
+            {
+                "title": "Viju+ Serial",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004375.m3u8"
+            },
+            {
+                "title": ".red",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000213.m3u8"
+            },
+            {
+                "title": ".black",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000520.m3u8"
+            },
+            {
+                "title": ".sci-fi",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000134.m3u8"
+            },
+            {
+                "title": "Мировое кино",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000008488.m3u8"
+            },
+            {
+                "title": "Семейное кино",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000008489.m3u8"
+            },
+            {
+                "title": "Кинобоевик",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000008490.m3u8"
+            },
+            {
+                "title": "Премиум кино",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000008491.m3u8"
+            },
+            {
+                "title": "Смотрим Честный Детектив",
+                "file": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8"
+            },
+            {
+                "title": "Смотрим Мелодрамы",
+                "file": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8"
+            },
+            {
+                "title": "Смотрим Тайны",
+                "file": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8"
+            },
+            {
+                "title": "FilmUADrama",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000003028.m3u8"
+            },
+            {
+                "title": "Феникс + Кино",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000125.m3u8"
+            },
+            {
+                "title": "Мосфильм. Золотая коллекция",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000006365.m3u8"
+            },
+            {
+                "title": "Дом Кино",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000050.m3u8"
+            },
+            {
+                "title": "Дом Кино Премиум",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000002943.m3u8"
+            },
+            {
+                "title": "Любимое кино",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000283.m3u8"
+            },
+            {
+                "title": "Мир сериала",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000319.m3u8"
+            },
+            {
+                "title": "Русский иллюзион",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004207.m3u8"
+            },
+            {
+                "title": "Иллюзион+",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004582.m3u8"
+            },
+            {
+                "title": "Еврокино",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000152.m3u8"
+            },
+            {
+                "title": "Cinema",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000239.m3u8"
+            },
+            {
+                "title": "Hollywood",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000031.m3u8"
+            },
+            {
+                "title": "Киноман",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000003871.m3u8"
+            },
+            {
+                "title": "Trash",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000005621.m3u8"
+            },
+            {
+                "title": "НСТ",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000000078.m3u8"
+            },
+            {
+                "title": "Flix Snip",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000004466.m3u8"
+            },
+            {
+                "title": "Plan B",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000007625.m3u8"
+            },
+            {
+                "title": "Кинеко",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000008136.m3u8"
+            },
+            {
+                "title": "Сапфир",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000008135.m3u8"
+            },
+            {
+                "title": "Дорама",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000003392.m3u8"
+            },
+            {
+                "title": "Bollywood HD",
+                "file": "https://bkm.beetv.kz/btv/live/hls/000001419.m3u8"
+            },
+            {
+                "title": "Test 4K HDR DTS",
+                "file": "https://storage.googleapis.com/gem-user-files/userFiles/79090834831/AFiumC72IcRLYpftDbWEe2cu47oTTtSDr2pB1LpdFuu5l5W4gsnf-EI2vxGBSGq3smWHFADKAvk.FblpYH6gMkdfrDbH"
+            },
+            {
+                "title": "Test 4K HDR",
+                "file": "https://storage.googleapis.com/gem-user-files/userFiles/79090834831/ADPycdvNQPKYoCwz49eg4snteeNp3pe__JaFuOn9C16leGnsBzDgHp93MYJs3Nv9rjD-lzcZf-0fD6bLxdk1G5RlLylMiAloNYJC.aNpTbqJU6paFzpcs"
+            },
+            {
+                "title": "Test ZEN new",
+                "file": "https://cdn.dzen.ru/vod/converted-video/vod-content/65/59/98/77/55/65/72/51/69/3/f4ccc829-b3c0-47b3-8c09-86d21e54c316/kaltura/desc_30e5a8f191716a2e0636acbfde2622eb/vGePvUqxBxkg/master.m3u8"
+            },
+            {
+                "title": "Palmer",
+                "file": "https://storage.googleapis.com/gem-user-files/userFiles/79090834831/ABPtcPq4eT3-qL0x4tq-RJ3GzuTkT6d2xzIbEaNt5_gQnjLBwfKTwAZVIrVAjvDWXpLPIeodkN6EGv33Mw.4VZIuN5zzfTjIMeF"
+            },
+            {
+                "title": "Barbi",
+                "file": "https://storage.googleapis.com/gem-user-files/userFiles/79090834831/ABPtcPoJxyMLnVLpuyRfnZMWi2dbrli4CMb-LMbbQu1yk1UlDEWTeKuGRiUJye3l4rtLPVmFzvM.AuftpU-ADhbdFAD9"
+            },
+            {
+                "title": "1",
+                "file": "https://cdn.dzen.ru/vod/converted-video/vod-content/41/14/47/49/77/91/94/66/01/9/63d597f0-4ffc-4c1b-8f59-0ec64fd1d163/kaltura/desc_d82e60d44e906e9ddc0cbacb6d96b8b9/vttTi3DKwjhE/ysign1=3a72bad7d7bf41e80aad92a1fd07cc81300e8602b00e4acad0593d3cfd0efd33,abcID=967,from=zen,pfx,region=1,sfx,ts=65e79c40/manifest.mpd"
+            },
+            {
+                "title": "0",
+                "file": "https://cdn.dzen.ru/vod/converted-video/vod-content/41/14/47/49/77/91/94/66/01/9/63d597f0-4ffc-4c1b-8f59-0ec64fd1d163/kaltura/desc_d82e60d44e906e9ddc0cbacb6d96b8b9/vttTi3DKwjhE/ysign1=3a72bad7d7bf41e80aad92a1fd07cc81300e8602b00e4acad0593d3cfd0efd33,abcID=967,from=zen,pfx,region=0,sfx,ts=65e79c40/manifest.mpd"
+            },
+            {
+                "title": "10000",
+                "file": "https://cdn.dzen.ru/vod/converted-video/vod-content/41/14/47/49/77/91/94/66/01/9/63d597f0-4ffc-4c1b-8f59-0ec64fd1d163/kaltura/desc_d82e60d44e906e9ddc0cbacb6d96b8b9/vttTi3DKwjhE/ysign1=3a72bad7d7bf41e80aad92a1fd07cc81300e8602b00e4acad0593d3cfd0efd33,abcID=967,from=zen,pfx,region=10000,sfx,ts=65e79c40/manifest.mpd"
+            },
+            {
+                "title": "Test Google",
+                "file": "https://storage.googleapis.com/gem-user-files/userFiles/79090834831/ABPtcPoiXIIb-vltOH70rDNUJR2gYkg-sFbIYZuuhc14SbeZ2xImg93pFuoriLL70LmWG0t37P809XtbjL0yh5rcLnMCdA.BBGt6o4dtyh_FThx"
+            }
+        ]
+    },
+    {
+        "title": "TESTS NEW",
+        "folder": [
+            {
+                "title": "Titanic",
+                "file": "https://cdn.dzen.ru/vod/converted-video/vod-content/30/18/43/83/43/32/01/40/00/9/705b1c99-f38f-4166-a949-89ef75e4ade3/kaltura/desc_e835c50fcd4e03dece688d5df71aace0/vk228e8_Klgo/master.m3u8",
+                "subtitle": "https://englishprofile.ru/sub/mov/ZMT-EN.srt",
+                "subtitle": "https://englishprofile.ru/sub/mov/ZMT-RU.srt"
+            }
+        ]
+    }
+]
