@@ -1,0 +1,30 @@
+[
+            {
+                "title": "News 12 New York",
+                "file": "https://apollo.production-public.tubi.io/live/ac-news12ny.m3u8"
+            },
+            {
+                "title": "NBC Today All Day",
+                "file": "https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245"
+            },
+            {
+                "title": "NBC LX Home",
+                "file": "https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8"
+            },
+            {
+                "title": "Vevo Pop",
+                "file": "https://amg00056-vevotv-vevopop-plex-56zvo.amagi.tv/playlist/amg00056-vevotv-vevopop-plex/playlist.m3u8"
+            },
+            {
+                "title": "CW Forever",
+                "file": "https://linear-850.frequency.stream/mt/plex/850/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "CW Gold",
+                "file": "https://linear-851.frequency.stream/mt/plex/851/hls/master/playlist.m3u8"
+            },
+            {
+                "title": "Rakuten TV Family English",
+                "file": "https://rakuten-family-1-gb.xiaomi.wurl.tv/playlist.m3u8"
+            }
+]
